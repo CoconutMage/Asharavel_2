@@ -41,6 +41,7 @@
 *.VC.db
 *.VC.opendb
 
+Content/__ExternalActors__/*
 Content/AnimalVarietyPack/*
 Content/CartoonWaterShader/*
 Content/Complete_Bundle/*
@@ -50,6 +51,13 @@ Content/FoodPackBakery/*
 Content/FruitsVegetables_MEGAPACK/*
 Content/StylizedCharacter/*
 Content/StylizedCreaturesBundle/*
+
+Content/EasySurvivalRPG/Audio/*
+Content/EasySurvivalRPG/Textures/*
+Content/EasySurvivalRPG/Meshes/*
+Content/EasySurvivalRPG/Materials/*
+Content/EasySurvivalRPG/FoliageType/*
+Content/EasySurvivalRPG/Effects/*
 
 # Precompiled Assets
 SourceArt/**/*.png
